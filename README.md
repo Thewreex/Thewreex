@@ -16,13 +16,15 @@ Soy **Juan Pablo Ramírez**, un programador chileno 🇨🇱 recién titulado en
 
 # Tecnologias
 
-| C# | CSS | Git | HTML |
-|----|-----|-----|------|
-| ![C#](assets/CSharp.png) | ![CSS](assets/CSS3.png) | ![Git](assets/Git.png) | ![HTML](assets/HTML5.png) |
+- ![C#](assets/CSharp.png) C#
+- ![CSS](assets/CSS3.png) CSS
+- ![Git](assets/Git.png) Git
+- ![HTML](assets/HTML5.png) HTML
+- ![JavaScript](assets/JavaScript.png) JavaScript
+- ![.NET](assets/NET.png) .NET
+- ![React](assets/React.png) React
+- ![SQL](assets/SQL.png) SQL
 
-| JavaScript | .NET | React | SQL |
-|------------|------|-------|-----|
-| ![JS](assets/JavaScript.png) | ![.NET](assets/NET.png) | ![React](assets/React.png) | ![SQL](assets/SQL.png) |
 
 
 <!--
