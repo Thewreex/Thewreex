@@ -12,9 +12,7 @@ Soy **Juan Pablo Ramírez**, un programador chileno 🇨🇱 recién titulado en
 - Me gusta aprender nuevas tecnologías y mejorar continuamente.
 - Siempre dispuesto a colaborar en proyectos y desafíos innovadores.
 
-### 🔹 Habilidades
-
-# Tecnologias
+### 🔹 Tecnologias
 
 <p float="left">
   <img src="assets/CSharp.png" width="50" /> 
@@ -26,6 +24,15 @@ Soy **Juan Pablo Ramírez**, un programador chileno 🇨🇱 recién titulado en
   <img src="assets/React.png" width="50" /> 
   <img src="assets/SQL.png" width="50" /> 
 </p>
+
+### 🔹 Habilidades
+
+- 📝 Análisis de requerimientos
+- 🧪 Testing automatizado y manual
+- ⚡ Metodologías de desarrollo ágil
+- 🎨 Uso de herramientas como Figma para diseño de prototipos
+- 📄 Creación de documentación técnica
+- 📊 Creación de diagramas de flujo y diagramas UML usando Draw.io o Bizagi
 
 <!--
 **Thewreex/Thewreex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
