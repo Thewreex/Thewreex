@@ -23,8 +23,6 @@ Soy **Juan Pablo Ramírez**, un programador chileno 🇨🇱 recién titulado en
 - ![React](assets/React.png) React
 - ![SQL](assets/SQL.png) SQL
 
-
-
 ### 🔹 Habilidades
 
 - 📝 Análisis de requerimientos
@@ -34,17 +32,7 @@ Soy **Juan Pablo Ramírez**, un programador chileno 🇨🇱 recién titulado en
 - 📄 Creación de documentación técnica
 - 📊 Creación de diagramas de flujo y diagramas UML usando Draw.io o Bizagi
 
-<!--
-**Thewreex/Thewreex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 Proyectos Destacados
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[TuFut](https://github.com/Thewreex/tufut-react)**  
+  Software de futbol que sirve para crear fixture de ligas, y calcular resultados, fue desarrollado con:
