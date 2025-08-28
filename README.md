@@ -16,16 +16,14 @@ Soy **Juan Pablo Ramírez**, un programador chileno 🇨🇱 recién titulado en
 
 # Tecnologias
 
-<p float="left">
-  <img src="assets/CSharp.png" width="50" /> 
-  <img src="assets/CSS3.png" width="50" /> 
-  <img src="assets/Git.png" width="50" /> 
-  <img src="assets/HTML5.png" width="50" /> 
-  <img src="assets/JavaScript.png" width="50" /> 
-  <img src="assets/NET.png" width="50" /> 
-  <img src="assets/React.png" width="50" /> 
-  <img src="assets/SQL.png" width="50" /> 
-</p>
+| C# | CSS | Git | HTML |
+|----|-----|-----|------|
+| ![C#](assets/CSharp.png) | ![CSS](assets/CSS3.png) | ![Git](assets/Git.png) | ![HTML](assets/HTML5.png) |
+
+| JavaScript | .NET | React | SQL |
+|------------|------|-------|-----|
+| ![JS](assets/JavaScript.png) | ![.NET](assets/NET.png) | ![React](assets/React.png) | ![SQL](assets/SQL.png) |
+
 
 <!--
 **Thewreex/Thewreex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
