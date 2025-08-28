@@ -36,3 +36,7 @@ Soy **Juan Pablo Ramírez**, un programador chileno 🇨🇱 recién titulado en
 
 - **[TuFut](https://github.com/Thewreex/tufut-react)**  
   Software de futbol que sirve para crear fixture de ligas, y calcular resultados, fue desarrollado con:
+
+  ### 🔹 Contacto 📫
+
+[LinkedIn](https://www.linkedin.com/in/juan-pablo-ramirez-olivares-a19368313) | [Correo](juanpablodiaz2518@gmail.com)
