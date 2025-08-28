@@ -1,4 +1,4 @@
-## Hi there 👋
+![image-20250828143745974](C:\Users\juanp\AppData\Roaming\Typora\typora-user-images\image-20250828143745974.png)👋
 
 <!--
 **Thewreex/Thewreex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
