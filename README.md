@@ -17,6 +17,7 @@ Soy **Juan Pablo Ramírez**, un programador chileno 🇨🇱 recién titulado en
 # Tecnologias
 
 ![image-20250828143745974](assets/CSharp.png) C#
+-
 ![image-20250828143745974](assets/CSS3.png) CSS
 ![image-20250828143745974](assets/Git.png) Git
 ![image-20250828143745974](assets/HTML5.png) HTML
